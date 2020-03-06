@@ -116,7 +116,7 @@
         "SAMtools",
         "bedtools",
         "dREG",
-        "HOMER"
+        "HOMER",
         "BWA",
         "IGV",
         "IPA"
@@ -141,7 +141,7 @@
       "endDate": "Expected Spring, 2020",
       "courses": [
         "Statistical Programming in R, Bioinformatics Computational Methods, Advanced Genomics, Network Science, Machine Learning"
-      ]
+      ],
       "highlights": [
           "Proposed and led my team mates in building a pilot-scale database catologing different phytochemicals, their biological activities, medicinal uses, traditional knowledge, and relevant literature by combining reductionist approaches of modern medicine and holistic approaches of Ayurveda. The database has ~122k Phytochemical-Activity interactions and can serve as a repository of lead suspects that could be taken up for Phase-0 clinical trials.",
           "Constructed a dynamic Artists-Dealers-Collectors multimodal network with mined provenance data depicting sidelining of female artists in art history as a part of a Network analysis course."
@@ -157,7 +157,7 @@
       "endDate": "Present",
       "summary": "Northeastern University, Boston, MA",
       "highlights": [
-        "Assist in supervising lab sessions for graduate students and mentor students on individual basis.",
+        "Assist in supervising lab sessions for graduate students and mentor students on individual basis."
       ]
     },
     {
@@ -183,7 +183,7 @@
       "endDate": "May 2019",
       "summary": "Northeastern University, Boston, MA",
       "highlights": [
-        "Compared different alignment tools to identify the best suited aligner, and developed a custom UMI processing module for long read data from mitochondria in mice ova (ONT MinION). This assisted a Ph.D. student with her research to understand purifying selection in the context of Aging.",
+        "Compared different alignment tools to identify the best suited aligner, and developed a custom UMI processing module for long read data from mitochondria in mice ova (ONT MinION). This assisted a Ph.D. student with her research to understand purifying selection in the context of Aging."
         ]
     },
     {
@@ -194,9 +194,9 @@
       "endDate": "August 2018",
       "summary": "Mumbai, India",
       "highlights": [
-        "Assisted researchers with manuscript preparation, including fact checking, citation management, and scientific editing for publication in high impact factor journals. Consistently placed among top editors of the month based on client ratings and turnaround volume.",
+        "Assisted researchers with manuscript preparation, including fact checking, citation management, and scientific editing for publication in high impact factor journals. Consistently placed among top editors of the month based on client ratings and turnaround volume."
       ]
-    },
+    }
   ],
   "volunteer": [
     {
@@ -208,9 +208,9 @@
       "summary": "",
       "highlights": [
       "Proposed and led my team mates in building a pilot-scale database catologing different phytochemicals, their biological activities, medicinal uses, traditional knowledge, and relevant literature by combining reductionist approaches of modern medicine and holistic approaches of Ayurveda.",
-      "The database has ~122k Phytochemical-Activity interactions and can serve as a repository of lead suspects that could be taken up for Phase-0 clinical trials.",
+      "The database has ~122k Phytochemical-Activity interactions and can serve as a repository of lead suspects that could be taken up for Phase-0 clinical trials."
       ]
-    }
+    },
     {
       "organization": "Chronobiology Lab",
       "website": "",
@@ -220,10 +220,10 @@
       "summary": "JNCASR, Bengaluru, India",
       "highlights": [
         "Found evidence for tight coupling of certain circadian rhythms in Drosophila populations selected for phase of eclosion using time series analysis and circular statistics. This helped in understanding the evolution of phase divergence among the populations.",
-        "Hands on experience with Trizol RNA extraction from Drosphila brains to study the temporal expression profiles of core clock genes."
+        "Hands on experience with Trizol RNA extraction from Drosphila brains to study the temporal expression profiles of core clock genes.",
         "Genotype-Phenotype association studies on DGRC Drosophila Deletion lines, Kyoto indicated that genes involved in development and core clock regulation affect gating of eclosion."
       ]
-    },
+    }
   ],
   
   "references": [
