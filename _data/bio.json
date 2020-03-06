@@ -6,7 +6,7 @@
     "email": "dhanasekaran.s@neu.edu",
     "phone": "518-901-8105",
     "website": "https://Caffeinated-Code.github.io",
-    "summary": "Graduate student at Northeastern University studying Bioinformatics, seeking full-time Computational Biologist, Bioinformatics Engineer/Scientist in a fast-paced work environment ",
+    "summary": "Graduate student at Northeastern University studying Bioinformatics | Actively seeking full-time Computational Biologist, Bioinformatics Engineer/Scientist in a fast-paced work environment. ",
     "location": {
       "address": "",
       "postalCode": "02151",
@@ -137,24 +137,40 @@
       "institution": "Northeastern University, Boston, MA",
       "area": "Bioinformatics",
       "studyType": "M.S.",
-      "startDate": "Fall 2018",
-      "endDate": "Expected Spring, 2020",
+      "startDate": "2018",
+      "endDate": "Apr 2020",
       "courses": [
-        "Statistical Programming in R, Bioinformatics Computational Methods, Advanced Genomics, Network Science, Machine Learning"
+        "Advanced Genomics, Statistical Programming in R, Computational Methods, Network Science, Machine Learning"
       ],
-      "highlights": [
-          "Proposed and led my team mates in building a pilot-scale database catologing different phytochemicals, their biological activities, medicinal uses, traditional knowledge, and relevant literature by combining reductionist approaches of modern medicine and holistic approaches of Ayurveda. The database has ~122k Phytochemical-Activity interactions and can serve as a repository of lead suspects that could be taken up for Phase-0 clinical trials.",
-          "Constructed a dynamic Artists-Dealers-Collectors multimodal network with mined provenance data depicting sidelining of female artists in art history as a part of a Network analysis course."
-      ]
+    },
+    {
+      "institution": "Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru, India",
+      "area": "Chronobiology/Evolutionary Biology (Full Scholarship)",
+      "studyType": "M.S.",
+      "startDate": "2015",
+      "endDate": "2016",
+      "courses": [
+        "Chronobiology, Biostatistics, Population and Quantitative Genetics"
+      ],
+    },
+    {
+      "institution": "Anna University, Chennai, India",
+      "area": "Biotechnology (Summa cum laude, Partial Scholarship)",
+      "studyType": "B.Tech",
+      "startDate": "2010",
+      "endDate": "2014",
+      "courses": [
+        "Bioinformatics, Immunology, Cancer Biology, Molecular Biology, Biochemistry, Microbiology"
+      ],
     }
   ],
   "work": [
     {
       "company": "Computational Methods-2",
-      "position": "Graduate Lab Assistant Volunteer",
+      "position": "Lab Assistant Volunteer",
       "website": "",
-      "startDate": "January 2020",
-      "endDate": "Present",
+      "startDate": "Present",
+      "endDate": "",
       "summary": "Northeastern University, Boston, MA",
       "highlights": [
         "Assist in supervising lab sessions for graduate students and mentor students on individual basis."
@@ -164,11 +180,11 @@
       "company": "CAMP4 Therapeutics",
       "position": "Bioinformatics/Data Science Co-op",
       "website": "",
-      "startDate": "September 2019",
-      "endDate": "December 2019",
+      "startDate": "Fall 2019",
+      "endDate": "",
       "summary": "Cambridge, MA",
       "highlights": [
-        "Maintained a dockerized pipeline on AWS capable of multi-containerizing high volumes of SLAMseq data for faster processing. The metabolic RNA labelling data was analyzed to base-pair level resolution to generate nucleotide conversion counts by delineating it from true SNPs. This helped understand transcriptome-wide RNA synthesis and turnover in a temporal manner.",
+        "Streamlined a multicontainer dockerized pipeline on AWS that can handle high volumes of SLAMseq data. Epitranscriptomics data was analyzed to generate nucleotide conversion counts by delineating it from true SNPs. This helped understand transcriptome-wide RNA synthesis and turnover in a temporal manner.",
         "Exploratory data analysis of nascent transcription data from PROseq for detecting enhancer-mediated gene regulation using proseq2 pipeline.",
         "Built a bash/awk pipeline to automate and streamline processing of large sample sets. The script also generates compiled data quality reports on read statistics and adapter contamination, which was helpful to understand data quality issues and design an analysis plan accordingly.",
         "Finetuned the proseq2 workflow with custom modules that filter rRNA, tRNA, mtDNA, microRNA, and spike-ins, quantify gene body and promoters, perform comparative analysis, GSEA, pathway analysis and generate visualizations to suit in-house research requirements.",
@@ -179,8 +195,8 @@
     {
       "company": "Khrapko Lab",
       "position": "Lab Volunteer",
-      "startDate": "April 2019",
-      "endDate": "May 2019",
+      "startDate": "Summer 2019",
+      "endDate": "",
       "summary": "Northeastern University, Boston, MA",
       "highlights": [
         "Compared different alignment tools to identify the best suited aligner, and developed a custom UMI processing module for long read data from mitochondria in mice ova (ONT MinION). This assisted a Ph.D. student with her research to understand purifying selection in the context of Aging."
@@ -190,8 +206,8 @@
       "company": "Cactus Communications",
       "position": "Freelance Scientific Editor",
       "website": "",
-      "startDate": "April 2017",
-      "endDate": "August 2018",
+      "startDate": "2017",
+      "endDate": "2018",
       "summary": "Mumbai, India",
       "highlights": [
         "Assisted researchers with manuscript preparation, including fact checking, citation management, and scientific editing for publication in high impact factor journals. Consistently placed among top editors of the month based on client ratings and turnaround volume."
@@ -203,20 +219,20 @@
       "organization": "Northeastern University",
       "website": "",
       "position": "Indian Ayurvedic Bioflavonoids Database",
-      "startDate": "January 2019",
-      "endDate": "March 2019",
+      "startDate": "Spring 2019",
+      "endDate": "",
       "summary": "",
       "highlights": [
-      "Proposed and led my team mates in building a pilot-scale database catologing different phytochemicals, their biological activities, medicinal uses, traditional knowledge, and relevant literature by combining reductionist approaches of modern medicine and holistic approaches of Ayurveda.",
-      "The database has ~122k Phytochemical-Activity interactions and can serve as a repository of lead suspects that could be taken up for Phase-0 clinical trials."
+      "Proposed and led my team mates in building a pilot-scale database catologing different phytochemicals, their biological activities, medicinal uses, traditional knowledge, and relevant literature by combining approaches of modern medicine with Ayurveda.",
+      "The database has ~120k Phytochemical-Activity interactions and can serve as a repository of lead suspects that could be taken up for Phase-0 clinical trials."
       ]
     },
     {
       "organization": "Chronobiology Lab",
       "website": "",
       "position": "Graduate Researcher",
-      "startDate": "January 2016",
-      "endDate": "April 2017",
+      "startDate": "2016",
+      "endDate": "2017",
       "summary": "JNCASR, Bengaluru, India",
       "highlights": [
         "Found evidence for tight coupling of certain circadian rhythms in Drosophila populations selected for phase of eclosion using time series analysis and circular statistics. This helped in understanding the evolution of phase divergence among the populations.",
