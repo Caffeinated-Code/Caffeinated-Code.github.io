@@ -1,2 +1,2 @@
-# samuelbunga.github.io
+# Caffeinated-Code.github.io
 Private portfolio

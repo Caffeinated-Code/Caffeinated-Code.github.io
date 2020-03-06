@@ -1,55 +1,55 @@
 {
   "basics": {
-    "name": "Samuel Newton Bunga",
-    "label": "Student",
-    "picture": "/images/sam.jpg",
-    "email": "bunga.s@northeastern.edu",
-    "phone": "857-701-9190",
-    "website": "https://samuelbunga.github.io",
-    "summary": "Graduate student at Northeastern University studying Bioinformatics, seeking full-time Computational Biologist, Bioinformatics Engineer/Scientist or Software development position in a research organization ",
+    "name": "Swathi Dhanasekaran",
+    "label": "Graduate Student",
+    "picture": "/images/swathi.jpg",
+    "email": "dhanasekaran.s@neu.edu",
+    "phone": "518-901-8105",
+    "website": "https://Caffeinated-Code.github.io",
+    "summary": "Graduate student at Northeastern University studying Bioinformatics, seeking full-time Computational Biologist, Bioinformatics Engineer/Scientist in a fast-paced work environment ",
     "location": {
       "address": "",
-      "postalCode": "02120",
-      "city": "Boston",
+      "postalCode": "02151",
+      "city": "Revere",
       "countryCode": "USA",
       "region": "Massachusetts"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "samuelbunga",
-        "url": "http://github.com/samuelbunga"
+        "username": "Caffeinated-Code",
+        "url": "http://github.com/Caffeinated-Code"
       },
       {
         "network": "linkedin",
-        "username": "samuelbunga",
-        "url": "http://linkedin.com/in/samuelbunga"
+        "username": "swathidhanasekaran",
+        "url": "https://www.linkedin.com/in/swathidhanasekaran/"
       },
       {
         "network": "instagram",
-        "username": "thebluenerve",
-        "url": "http://instagram.com/thebluenerve"
+        "username": "caffeinated_code",
+        "url": "https://www.instagram.com/caffeinated_code/"
       }
     ]
   },
   "interests": [
+    {
+      "name": "NGS Workflows",
+      "keywords": [
+      ]
+    },
     {
       "name": "Single Cell Genomics",
       "keywords": [
       ]
     },
     {
-      "name": "NGS",
+      "name": "Circadian Rhythms",
       "keywords": [
       ]
     },
     {
-      "name": "Machine Learning",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Data Analytics",
+      "name": "Precision Medicine",
       "keywords": [
       ]
     }
@@ -60,58 +60,75 @@
       "level": "",
       "keywords": [
         "Python",
-        "Perl",
-        "PHP",
         "R",
-        "Linux Shell Scripting",
-        "json"
+        "Perl",
+        "Shell Scripting",
+        "SQL",
+        "MATLAB"
       ]
     },
      {
-      "name": "Genomic Data Analysis",
+      "name": "Omics Data Analysis",
       "level": "",
       "keywords": [
-        "Sinlge Cell",
-        "Comparative Genomics",
-        "Genome Assembly",
-        "Transcriptome",
-        "GWAS",
-        "NGS"
+        "Raw genomic data pre-processing",
+        "Nascent transcription analysis",
+        "Transcription Factor binding prediction",
+        "Single cell analysis",
+        "Nanopore data analysis",
+        "RNA-seq analysis",
+        "Gene Set Enrichment Analysis",
+        "KEGG pathway analysis",
+        "Network Visualization and analysis"
       ]
     },
     {
       "name": "Frameworks/Libraries",
       "level": "",
       "keywords": [
+        "Bioconductor",
+        "dplyr",
+        "ggplot2",
+        "seurat",
+        "maftools",
+        "DEseq2",
+        "pathfindR",
+        "BioPython",
         "Pandas",
         "numpy",
-        "BioConductor",
-        "dplyr",
-        "Seurat",
-        "BioPython",
-        "BioPerl"
+        "seaborn",
+        "matplotlib",
+        "Bioperl",
+        "phylogram",
+        "TCGAWorkflow"
       ]
     },
     {
       "name": "Bioinformatics tools",
       "level": "",
       "keywords": [
-        "Cell Ranger(10X)",
-        "GATK",
+        "proseq2",
+        "slamdunk",
+        "seurat",
+        "FASTX_Toolkit",
+        "MultiQC",
         "UMI-Tools",
-        "samtools",
-        "hisat-2",
-        "STAR",
-        "FastP"
+        "SAMtools",
+        "bedtools"
+        "dREG",
+        "HOMER"
+        "BWA",
+        "IGV",
+        "IPA"
       ]
     },
     {
-      "name": "Development tools/Platform",
+      "name": "Development tools",
       "level": "",
       "keywords": [
         "Git",
-        "Vim",
-        "AWS"
+        "AWS",
+        "Dockers"
       ]
     }
   ],
@@ -120,66 +137,68 @@
       "institution": "Northeastern University, Boston, MA",
       "area": "Bioinformatics",
       "studyType": "M.S.",
-      "startDate": "Expected Spring, 2020",
-      "endDate": "",
-      "gpa": "3.73",
+      "startDate": "Fall 2018",
+      "endDate": "Expected Spring, 2020",
       "courses": [
-        "Computational Methods – 1 and 2, Bioinformatics Programming, Machine Learning, Data Analytics"
+        "Statistical Programming in R, Bioinformatics Computational Methods, Advanced Genomics, Network Science, Machine Learning"
+      ]
+      "highlights": [
+          "Proposed and led my team mates in building a pilot-scale database catologing different phytochemicals, their biological activities, medicinal uses, traditional knowledge, and relevant literature by combining reductionist approaches of modern medicine and holistic approaches of Ayurveda. The database has ~122k Phytochemical-Activity interactions and can serve as a repository of lead suspects that could be taken up for Phase-0 clinical trials.",
+          "Constructed a dynamic Artists-Dealers-Collectors multimodal network with mined provenance data depicting sidelining of female artists in art history as a part of a Network analysis course."
       ]
     }
   ],
   "work": [
     {
       "company": "Computational Methods-2",
-      "position": "Graduate Teaching Assistant",
+      "position": "Graduate Lab Assistant Volunteer",
       "website": "",
-      "startDate": "September 2019",
+      "startDate": "January 2020",
       "endDate": "Present",
       "summary": "Northeastern University, Boston, MA",
       "highlights": [
-        "Co-supervise and conduct lab sessions for 30 students and held office hours every week",
-        "Provide comprehensive academic support and mentored students on individual basis",
-        "Conduct and evaluate student quizzes and assignments",
-        "Written Perl/BASH scripts to grade assignments automatically and produce a score card",
+        "Assist in supervising lab sessions for graduate students and mentor students on individual basis.",
       ]
     },
     {
-      "company": "Bhasin Lab",
-      "position": "Research Intern",
+      "company": "CAMP4 Therapeutics",
+      "position": "Bioinformatics/Data Science Co-op",
       "website": "",
-      "startDate": "May 2019",
+      "startDate": "September 2019",
       "endDate": "December 2019",
-      "summary": "Harvard Medical School, Boston, MA",
+      "summary": "Cambridge, MA",
       "highlights": [
-        "Designed and developed a free open web application (Single Cell Wizard) for processing of Single Cell pair-end raw FASTQ files processed either by following 10X, CelSeq or DropSeq protocols and for single-end SRA files to generate feature-barcode matrices. The generated Matrix file can be taken up for clustering and GEA",
-        "Worked to develop 4 in house dependency tools for Single Cell Wizard pipeline like FASTQ demultiplexer and FASTQ cleaner to remove singleton nucleotides and low-quality reads from each sample",
-        "Assembled and created a Database for Gene expression markers that define cell types which can be used to annotate clusters of single cells via Gene Set Enrichment Analysis",
-        "Built a workflow to merge up to 30 in house and public Single Cell Datasets of Human and Mice using Seurat",
+        "Maintained a dockerized pipeline on AWS capable of multi-containerizing high volumes of SLAMseq data for faster processing. The metabolic RNA labelling data was analyzed to base-pair level resolution to generate nucleotide conversion counts by delineating it from true SNPs. This helped understand transcriptome-wide RNA synthesis and turnover in a temporal manner.",
+        "Exploratory data analysis of nascent transcription data from PROseq for detecting enhancer-mediated gene regulation using proseq2 pipeline.",
+        "Built a bash/awk pipeline to automate and streamline processing of large sample sets. The script also generates compiled data quality reports on read statistics and adapter contamination, which was helpful to understand data quality issues and design an analysis plan accordingly.",
+        "Finetuned the proseq2 workflow with custom modules that filter rRNA, tRNA, mtDNA, microRNA, and spike-ins, quantify gene body and promoters, perform comparative analysis, GSEA, pathway analysis and generate visualizations to suit in-house research requirements.",
+        "Peak calling with dREG and motif discovery with HOMER and MDS to support result congruence. Simultaneously generated UCSC tracks to effectively communicate genome wide effect of drug.",
+        "Tested and documented the workflow using data from donor liver cells treated with drugs having known MOA as well as public GEO datasets. Presented the workflow and demonstrated its ability to capture nascent transcription at known targets in a company-wide meeting."
       ]
     },
     {
-      "company": "E-Virgin e-commerce",
-      "position": "Data Analyst",
-      "startDate": "April 2015",
-      "endDate": "May 2016",
-      "summary": "Vishakapatnam, India",
+      "company": "Khrapko Lab",
+      "position": "Lab Volunteer",
+      "startDate": "April 2019",
+      "endDate": "May 2019",
+      "summary": "Northeastern University, Boston, MA",
       "highlights": [
-        "Conducted testing, maintenance and monitoring system process using in house and third-party tools and maintained ongoing relations with vendors, conduct product evaluations, participate in vendor selection, negotiating prices",
+        "Compared different alignment tools to identify the best suited aligner, and developed a custom UMI processing module for long read data from mitochondria in mice ova (ONT MinION). This assisted a Ph.D. student with her research to understand purifying selection in the context of Aging.",
         ]
+    },
+    {
+      "company": "Cactus Communications",
+      "position": "Freelance Scientific Editor",
+      "website": "",
+      "startDate": "April 2017",
+      "endDate": "August 2018",
+      "summary": "Mumbai, India",
+      "highlights": [
+        "Assisted researchers with manuscript preparation, including fact checking, citation management, and scientific editing for publication in high impact factor journals. Consistently placed among top editors of the month based on client ratings and turnaround volume.",
+      ]
     },
   ],
   "volunteer": [
-    {
-      "organization": "Bhasin Lab",
-      "website": "https://bhasinlab.us/scw_page/scwiz.php",
-      "position": "Single Cell Wizard",
-      "startDate": "August 2019",
-      "endDate": "December 2019",
-      "summary": "Single Cell RNA-seq pre/post processing pipeline",
-      "highlights": [
-        "SCWiz is a comprehensive Single Cell RNA-Seq processing pipeline which is a totally automated platform that can take raw FASTQ files, process them to generate feature barcode matrices and perform pre-processing, data normalization, quality control to differentially expressed genes, annotation of clusters and final visualization",
-      ]
-    },
     {
       "organization": "Northeastern University",
       "website": "",
@@ -188,9 +207,23 @@
       "endDate": "March 2019",
       "summary": "",
       "highlights": [
-      "Compiled over 100 plant metabolites in Ayurvedic formulations and forming up an interactome which could serve as a lead for potential drug targets that can be taken up for clinical trials",
+      "Proposed and led my team mates in building a pilot-scale database catologing different phytochemicals, their biological activities, medicinal uses, traditional knowledge, and relevant literature by combining reductionist approaches of modern medicine and holistic approaches of Ayurveda.",
+      "The database has ~122k Phytochemical-Activity interactions and can serve as a repository of lead suspects that could be taken up for Phase-0 clinical trials.",
       ]
     }
+    {
+      "organization": "Chronobiology Lab",
+      "website": "",
+      "position": "Graduate Researcher",
+      "startDate": "January 2016",
+      "endDate": "April 2017",
+      "summary": "JNCASR, Bengaluru, India",
+      "highlights": [
+        "Found evidence for tight coupling of certain circadian rhythms in Drosophila populations selected for phase of eclosion using time series analysis and circular statistics. This helped in understanding the evolution of phase divergence among the populations.",
+        "Hands on experience with Trizol RNA extraction from Drosphila brains to study the temporal expression profiles of core clock genes."
+        "Genotype-Phenotype association studies on DGRC Drosophila Deletion lines, Kyoto indicated that genes involved in development and core clock regulation affect gating of eclosion."
+      ]
+    },
   ],
   
   "references": [
