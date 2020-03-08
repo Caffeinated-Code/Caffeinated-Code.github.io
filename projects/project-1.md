@@ -2,22 +2,22 @@
 layout: project
 type: project
 image: images/NEU.png
-title: Graduate Teaching Assistant, Computational Methods-2
+title: Graduate Lab Assistant, Computational Methods-2
 permalink: projects/TA
 # All dates must be YYYY-MM-DD format!
-date: "Sep 2019 - Apr 2020"
+date: "2020-01-01"
 labels:
   - Python
   - BioPython
   - R
   - Git
-  - Linux Shell Scripting
-  - Leadership
-summary: Assisted Prof. Chesley Leslin in conducting and evaluating lab hours, assignments and quizzes for a class of 30 students.
+  - Shell Scripting
+  - Volunteer
+summary: Assist in supervising lab sessions for graduate students and mentor students on individual basis..
 ---
 
 
-My primary responsibilities are to conduct lab hours, answer doubts and grade assignments for a class of 30 students. I have written and implemented scripts to automatically grade every student’s assignment and produce a score card, which helped save a lot of time and effort.
+My primary responsibilities are to assist with lab hours and answer doubts for a class of 30 graduate-level students. I individually mentor students to facilitate better understanding of the concepts underlying lab excercises.
 
 
 

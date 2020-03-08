@@ -1,28 +1,29 @@
 ---
 layout: project
 type: project
-image: images/bidmc_square.jpg
-title: Research Intern
-permalink: projects/bhasinlab
+image: images/camp4.jpg
+title: Bioinformatics/Data Science Co-Op
+permalink: projects/CAMP4
 # All dates must be YYYY-MM-DD format!
-date: "May 2019 - Dec 2019"
+date: "Fall 2019"
 labels:
-  - Perl
-  - Python
-  - PHP
+  - Bash
   - R
-  - BASH
-summary: Primarily responsible to develop a web application for Single Cell RNA-seq Pre/Post processing pipeline.
+  - Python
+  - Awk
+  - AWS
+  - Dockers
+  summary: Independantly built and maintained dockerized pipelines for analysis and visualization of nascent transcription data from PROseq and SLAMseq. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/scwiz.PNG">
+<img class="ui medium right floated rounded image" src="../images/tracks.jpg">
 
-While working as a Research Intern at Beth Israel Deaconess Medical Center / Harvard Medical School, Boston, I gained substantial knowledge in Single Cell Genomics as well as various Bioinformatic tools and pipelines. I was primarily responsible to work on to design and develop a scRNA-seq pre-processing pipeline using Perl/Python/R and BASH to process raw FASTQ files into feature-barcode matrices and perform pre-processing, data normalization, quality control to differentially expressed genes, annotation of clusters and final visualization.
+During Fall 2019, I had the opportunity to intern with CAMP4, a Cambridge-based series-A startup focussed on mapping the genome-wide transcriptional machinery in different tissues to speed up the process of drug development. My primary responsibility was to develop reliable and reproducible work flows for the analysis and visualization of nascent transcription data from PROseq and SLAMseq. Both these sequencing technologies carry a wealth of information that will help us understand the mechanism of action (MOA) of drugs at the level of transcriptional regulation. 
 
-I have also developed tools like FASTQ de-multiplexer, barcode cleaner and filtering low quality reads, which I was able to benchmark against with the existing Alona sc-RNA-seq pipeline tools to see positive difference between my tools and the Alona’s.
+Since these are relatively new technologies, my initial phase of work involved staying updated on relevant literature, meeting wet-lab scientists to understand the protocols involved in library preparation, performing exploratory analysis, generating reports and thereby planning future analysis plans based on it. I created a wrapper script in Awk/Bash that would call upon the needed bioinformatics and was capable of processing huge volumes of samples efficiently. The script would also generate reports on sample quality, read statistics, and adapter contamination. Based on this samples were quality controlled and processed using the proseq2 pipeline from Danko Lab. Since our major focus was on mRNA, I created additional modules that would filter any rRNA/tRNA/mtDNA/spike-ins, perform read summarization for gene body quantification, carry out normalization and comparative analysis, and generate the final bedgraph and bigwig files for UCSC tracks and peak calling. 
 
-Finally, I wrapped the whole pipeline up into a web tool using PHP with email support to send output to the user when the job is finished.
+This was followed by motif dicovery of the peaks underlying those called by dREG using HOMER and MDS concurrently. When the workflow was tested with samples from donor liver cells treated with drugs having a well-known MOA, we were able to observe significantly different transcription initiation at those motifs of the known targets. Further, when tested on a large public dataset we were able to reproduce the same results as observed by the authors of that publication. Most of this work was carried out on AWS EC2 instances and well-documeted for future refrence. This was also the work that I finally presented at a company-wide meeting demonstrating that it would be worth using the PROseq sequencing technology to characterize the MOA of new drugs.
 
-In this project I gained experience with single cell omics, work-flow and web application design and associated technologies.
- 
-Source: <a href="https://bhasinlab.us/scw_page/scwiz.php">Single Cell Wizard</a>
+Parallely, I also streamlined the processing of epitranscriptomic data from SLAMseq studies employing metabolic labelling of RNA using a dockerized multicontainer AWS instance. The pipeline would generate alignment files, filtered files, reports on counts of nucleotide conversions from the labelling and true SNPs. The results from these studies were then checked for congruence with those from the PROseq studies. 
+    
+My experience here has primed me to confidently handle large datasets, learn new technologies fast on the go, rise upto challenges, meet deadlines, and routinely collaborate with scientists to exvhange knowledge and feedback. It has been an incredible experience and I hope that I get similar opportunities to work in such fast-paced environments.
