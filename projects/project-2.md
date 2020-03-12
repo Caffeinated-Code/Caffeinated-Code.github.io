@@ -18,7 +18,7 @@ labels:
 summary: Independently built and maintained dockerized pipelines for analysis and visualization of nascent transcription data from PROseq and SLAMseq. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/tracks.PNG">
+<img class="ui medium right floated rounded image" src="../images/tracks.jpg">
 
 During Fall 2019, I had the opportunity to intern with CAMP4, a Cambridge-based series-A startup focused on mapping the genome-wide transcriptional machinery in different tissues to speed up the process of drug development. My primary responsibility was to develop reliable and reproducible workflows for the analysis and visualization of nascent transcription data from PROseq and SLAMseq. Both these sequencing technologies carry a wealth of information that will help us understand the mechanism of action (MOA) of drugs at the level of transcriptional regulation. 
 
