@@ -16,7 +16,6 @@ labels:
   
   summary: Assisted a Ph.D graduate with analysis of long read data from ONT MinION sequencers.
 ---
-
 <img class="ui medium right floated rounded image" src="../images/polg.jpg">
 
 Mutations are accumulated in throughout the lifetime of the individual, and since mitochondria have an elevated mutation rate relative to the nuclear genome, a mechanism to minimize the inheritance of these detrimental mutations is of vital importance to the survival of the population. Two key concepts explain this observation: 
