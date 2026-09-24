@@ -27,6 +27,11 @@
         "url": "https://www.linkedin.com/in/swathidhanasekaran/"
       },
       {
+        "network": "kaggle",
+        "username": "swathidhanasekaran",
+        "url": "https://www.kaggle.com/swathidhanasekaran"
+      },
+      {
         "network": "instagram",
         "username": "caffeinated_code",
         "url": "https://www.instagram.com/caffeinated_code/"
@@ -140,7 +145,7 @@
       "endDate": "Apr 2020",
       "courses": [
         "Advanced Genomics, Statistical Programming, Computational Methods, Network Science, Machine Learning"
-      ],
+      ]
     },
     {
       "institution": "Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru, India",
@@ -150,7 +155,7 @@
       "endDate": "Apr 2016",
       "courses": [
         "Chronobiology, Biostatistics, Population and Quantitative Genetics"
-      ],
+      ]
     },
     {
       "institution": "Anna University, Chennai, India",
@@ -160,7 +165,7 @@
       "endDate": "May 2014",
       "courses": [
         "Bioinformatics, Immunology, Cancer Biology, Molecular Biology, Biochemistry, Microbiology"
-      ],
+      ]
     }
   ],
   "work": [
